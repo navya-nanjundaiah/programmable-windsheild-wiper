@@ -1,5 +1,12 @@
 # programmable-windsheild-wiper
 Programmable windshield  wiper using servo motor, buzzer, push button and arduino uno microcontroller
+## Objective 
+- Designing real-world application using MCU
+- Using Interrupt
+- Understanding and resolving switch bouncing problem
+- Using MCU on-chip EEPROM to save configuration parameters
+- Using PWM to control servo motors
+- Generating audio tones
 ## Components Required
 - Arduino Uno Rev3 microcontroller
 - Servo motor
@@ -7,4 +14,3 @@ Programmable windshield  wiper using servo motor, buzzer, push button and arduin
 - Pushbutton
 - Passive Buzzer
 - Using two 1k ohms resistor
-## Operation Description
