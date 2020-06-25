@@ -14,3 +14,7 @@ Programmable windshield  wiper using servo motor, buzzer, push button and arduin
 - Pushbutton
 - Passive Buzzer
 - Using two 1k ohms resistor
+
+## Working Principles
+
+<img src="/Capture.PNG?raw=true">
