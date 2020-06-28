@@ -18,3 +18,7 @@ Programmable windshield  wiper using servo motor, buzzer, push button and arduin
 ## Working Principles
 
 <img src="/Capture.PNG?raw=true">
+
+## Schematic diagram 
+
+<img src="Capture2.PNG/?raw=true">
